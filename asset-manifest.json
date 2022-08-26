@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NFT-Hacks/static/css/main.e9ad3f5e.css",
-    "main.js": "/NFT-Hacks/static/js/main.9b7a334a.js",
-    "index.html": "/NFT-Hacks/index.html",
-    "main.e9ad3f5e.css.map": "/NFT-Hacks/static/css/main.e9ad3f5e.css.map",
-    "main.9b7a334a.js.map": "/NFT-Hacks/static/js/main.9b7a334a.js.map"
+    "main.css": "/nfthacks.getsocialnow.co/static/css/main.e9ad3f5e.css",
+    "main.js": "/nfthacks.getsocialnow.co/static/js/main.9b7a334a.js",
+    "index.html": "/nfthacks.getsocialnow.co/index.html",
+    "main.e9ad3f5e.css.map": "/nfthacks.getsocialnow.co/static/css/main.e9ad3f5e.css.map",
+    "main.9b7a334a.js.map": "/nfthacks.getsocialnow.co/static/js/main.9b7a334a.js.map"
   },
   "entrypoints": [
     "static/css/main.e9ad3f5e.css",

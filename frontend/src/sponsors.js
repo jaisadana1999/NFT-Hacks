@@ -20,7 +20,19 @@ const goldsponsors = [
         image: 'assest/sponsor/filecoin.png',
         link: "https://filecoin.io/",
         name: "FileCoin"
-    }
+    },
+    {
+        _id: '2',
+        image: 'assest/sponsor/replit.png',
+        link: "https://replit.com/",
+        name: "Replit"
+    },
+    {
+        _id: '3',
+        image: 'assest/sponsor/solana.png',
+        link: "https://solana.com/",
+        name: "Solana"
+    },
 ];
 
 export { platinumsponsors, goldsponsors }

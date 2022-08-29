@@ -1,0 +1,5 @@
+@media (max-width: 570px) {
+  #faq h1 {
+    margin-bottom: 2rem !important;
+  }
+}

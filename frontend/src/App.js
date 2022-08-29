@@ -6,10 +6,12 @@ import Sponsors from './components/sponsors/Sponsors';
 import Team from './components/team/Team';
 import Theme from './components/theme/Theme';
 import Timeline from './components/timeline/Timeline';
+import "./App.css"
 
 function App() {
   return (
     <div className="App">
+
       <Header />
       <About />
       <Timeline />

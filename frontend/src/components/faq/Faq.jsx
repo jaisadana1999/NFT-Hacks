@@ -2,6 +2,7 @@ import React from "react";
 import { Accordion, Container } from "react-bootstrap";
 import faqdata from "../../faqdata";
 import Accord from "./Accord";
+import "./faq.css"
 
 const Faq = () => {
   return (

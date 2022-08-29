@@ -28,7 +28,7 @@ const About = () => {
               hacking!
             </p>
           </Col>
-          <Col lg={6} md={0} sm={0}>
+          <Col lg={6} md={0} sm={0} className="logobox">
             <img src="logo.png" alt="LOGO NFT" className="logo"></img>
           </Col>
         </Row>

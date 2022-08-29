@@ -42,10 +42,15 @@
   .shead {
     margin-top: 0;
   }
-  .Sponsor img {
+
+  .Sponsor {
+    margin: auto;
     margin-bottom: 3rem;
-    margin-left: 2rem;
-    width: 20rem;
-    height: 3rem;
+    margin: 0px 18.5% 3rem 18.5%;
+  }
+  .Sponsor img {
+    /* width: 20rem; */
+    width: 90%;
+    height: 5%;
   }
 }

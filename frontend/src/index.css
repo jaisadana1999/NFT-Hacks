@@ -6,6 +6,17 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "DynaPuff", cursive;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 16px;
+}
+
+@media (max-width: 570px) {
+  html{
+    font-size: 60%;
+  }
 }
 
 code {
